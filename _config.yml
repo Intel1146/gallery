@@ -41,7 +41,7 @@ layout_style: SQUARES
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 10
+spacing: 5
 
 # Boolean(true|false): Shuffle the photos in the album
 shuffle: false

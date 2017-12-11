@@ -28,14 +28,14 @@ baseurl: /
 #############################
 
 # The title that appears on the tab
-title: Intel's Gallery
+title: Chace's Gallery
 
 # The title on the web page
 full_name: Chace Whitaker
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: SQUARES
+layout_style: COLUMNS
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.

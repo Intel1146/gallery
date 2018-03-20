@@ -1,19 +1,61 @@
 {
+  "Light Writing": [
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8962.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8987.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8988.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8997.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8982.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8951.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8948.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8950.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8985.jpg",
+      "height": 864
+    }
+  ],
   "Snow Day": [
-    {
-      "width": 2592,
-      "path": "./photos/Snow Day/Snow11.jpg",
-      "height": 1728
-    },
-    {
-      "width": 2399,
-      "path": "./photos/Snow Day/Snow10.jpg",
-      "height": 1475
-    },
     {
       "width": 2495,
       "path": "./photos/Snow Day/Snow8.jpg",
       "height": 1664
+    },
+    {
+      "width": 2592,
+      "path": "./photos/Snow Day/Snow2.jpg",
+      "height": 1728
     },
     {
       "width": 1391,
@@ -21,13 +63,18 @@
       "height": 928
     },
     {
+      "width": 2399,
+      "path": "./photos/Snow Day/Snow10.jpg",
+      "height": 1475
+    },
+    {
       "width": 2592,
-      "path": "./photos/Snow Day/Snow4.jpg",
+      "path": "./photos/Snow Day/Snow1.jpg",
       "height": 1728
     },
     {
       "width": 2592,
-      "path": "./photos/Snow Day/Snow2.jpg",
+      "path": "./photos/Snow Day/Snow4.jpg",
       "height": 1728
     },
     {
@@ -37,7 +84,7 @@
     },
     {
       "width": 2592,
-      "path": "./photos/Snow Day/Snow1.jpg",
+      "path": "./photos/Snow Day/Snow11.jpg",
       "height": 1728
     }
   ]

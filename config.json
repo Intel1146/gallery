@@ -2,17 +2,7 @@
   "Light Writing": [
     {
       "width": 1296,
-      "path": "./photos/Light Writing/IMG_8962.jpg",
-      "height": 864
-    },
-    {
-      "width": 1296,
-      "path": "./photos/Light Writing/IMG_8987.jpg",
-      "height": 864
-    },
-    {
-      "width": 1296,
-      "path": "./photos/Light Writing/IMG_8988.jpg",
+      "path": "./photos/Light Writing/IMG_8950.jpg",
       "height": 864
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "width": 1296,
-      "path": "./photos/Light Writing/IMG_8982.jpg",
+      "path": "./photos/Light Writing/IMG_8962.jpg",
       "height": 864
     },
     {
@@ -32,21 +22,93 @@
     },
     {
       "width": 1296,
+      "path": "./photos/Light Writing/IMG_8985.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
       "path": "./photos/Light Writing/IMG_8948.jpg",
       "height": 864
     },
     {
       "width": 1296,
-      "path": "./photos/Light Writing/IMG_8950.jpg",
+      "path": "./photos/Light Writing/IMG_8988.jpg",
       "height": 864
     },
     {
       "width": 1296,
-      "path": "./photos/Light Writing/IMG_8985.jpg",
+      "path": "./photos/Light Writing/IMG_8987.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Light Writing/IMG_8982.jpg",
+      "height": 864
+    }
+  ],
+  "Eggs": [
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9669.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9659.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9664.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9663.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9662.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9660.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9661.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9667.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9665.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9666.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Eggs/IMG_9668.jpg",
       "height": 864
     }
   ],
   "Snow Day": [
+    {
+      "width": 2592,
+      "path": "./photos/Snow Day/Snow3.jpg",
+      "height": 1728
+    },
     {
       "width": 2495,
       "path": "./photos/Snow Day/Snow8.jpg",
@@ -58,19 +120,14 @@
       "height": 1728
     },
     {
-      "width": 1391,
-      "path": "./photos/Snow Day/Snow9.jpg",
-      "height": 928
-    },
-    {
       "width": 2399,
       "path": "./photos/Snow Day/Snow10.jpg",
       "height": 1475
     },
     {
-      "width": 2592,
-      "path": "./photos/Snow Day/Snow1.jpg",
-      "height": 1728
+      "width": 1391,
+      "path": "./photos/Snow Day/Snow9.jpg",
+      "height": 928
     },
     {
       "width": 2592,
@@ -79,13 +136,40 @@
     },
     {
       "width": 2592,
-      "path": "./photos/Snow Day/Snow3.jpg",
+      "path": "./photos/Snow Day/Snow1.jpg",
       "height": 1728
     },
     {
       "width": 2592,
       "path": "./photos/Snow Day/Snow11.jpg",
       "height": 1728
+    }
+  ],
+  "Reflections": [
+    {
+      "width": 1296,
+      "path": "./photos/Reflections/IMG_9719.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Reflections/IMG_9729.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Reflections/IMG_9715.jpg",
+      "height": 864
+    },
+    {
+      "width": 1296,
+      "path": "./photos/Reflections/IMG_9727.jpg",
+      "height": 864
+    },
+    {
+      "width": 576,
+      "path": "./photos/Reflections/IMG_9722.jpg",
+      "height": 864
     }
   ]
 }
